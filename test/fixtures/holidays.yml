@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  destination: MyString
+  num_people: 1
+  people: MyText
+  holiday_type: MyString
+  duration: 1
+
+two:
+  destination: MyString
+  num_people: 1
+  people: MyText
+  holiday_type: MyString
+  duration: 1
